@@ -1,5 +1,5 @@
-arr1 = ["elem1", "elem2", "elem3"];
-arr2 = ["elem4", "elem5", "elem6", "elem7", "elem8", "elem9"];
+var arr1 = ["elem1", "elem2", "elem3"],
+  arr2 = ["elem4", "elem5", "elem6", "elem7", "elem8", "elem9"];
 
 
 while (arr1.length > arr2.length) {
